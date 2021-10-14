@@ -1,6 +1,6 @@
 # Dicey!
 
-With the Dicey you can roll dice for different kind of roleplaying games and boardgames.
+With the Dicey you can roll dice for different kind of role-playing games and boardgames.
 
 ## Features
 * Supports tap and shake
